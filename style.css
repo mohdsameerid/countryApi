@@ -48,6 +48,10 @@ body{
     }
     #country-inp{
         width: 45vw;
+        font-size: 11px;
+    }
+    #search-btn{
+        font-size: 11px;
     }
 }
 
