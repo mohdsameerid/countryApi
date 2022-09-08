@@ -40,6 +40,17 @@ body{
     color: #222a43;
 }
 
+/* media query for input  */
+@media (max-width: 450px){
+    .container{
+        width: 80vw;
+        align-items: center;
+    }
+    #country-inp{
+        width: 45vw;
+    }
+}
+
 /* result */
 
 #result{
